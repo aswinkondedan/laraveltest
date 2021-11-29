@@ -1,0 +1,25 @@
+body {
+    background-color:white;
+  }
+
+p{
+    color: blue;
+    align-items: center;
+
+}
+
+#test{
+    color: brown;
+}
+
+#best{
+    color: cyan;
+    text-align: center;
+}
+.section1{
+    color: darkgreen;
+}
+
+body {
+    background-image: url("/public/media/Screenshot\ \(142\).png");
+  }
